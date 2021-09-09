@@ -25,13 +25,9 @@ b {
     justify-content: space-between;
     width: 30%;
 }
-#igtext{
+#igtext{    
     display: flex;
     font-size: large;
-    padding-top: 10px;
-}
-#check-mark{
-    padding-top: 14px;
 }
 #followingbutton {
     width: 40%;
@@ -44,7 +40,6 @@ b {
 #more {
     justify-content: flex-end;
     font-size: large;
-    padding-top: 10px;
 }
 .numbers {
     width: 40%;
@@ -66,16 +61,11 @@ b {
     flex-direction: column;
 }
 #instagramtext {
-    font-size: larger; 
-    padding-top: 18px; 
+    font-size: larger;  
 }
 #bioinput {
     display: flex;
     font-size: larger;
-    }
-    #heart {
-    padding-top: 18px;
-    }
 }
 #link {   
     font-size: larger;
